@@ -21,39 +21,18 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z1900.exe>`__
-     - .exe
-     - 32-bit x86
-     - 1,2 MB
    * - `Download <https://7-zip.org/a/7z1900-x64.exe>`__
      - .exe
      - 64-bit x86
      - 1,4 MB
-
-
-
-**7-Zip 21.02 alpha (06.05.2021) für Windows herunterladen**:
-
-.. list-table::
-   :widths: 60 60 124 70
-   :header-rows: 1
-
-   * - Link
-     - Version
-     - Windows
-     - Größe
-   * - `Download <https://7-zip.org/a/7z2102.exe>`__
+   * - `Download <https://7-zip.org/a/7z1900.exe>`__
      - .exe
      - 32-bit x86
      - 1,2 MB
-   * - `Download <https://7-zip.org/a/7z2102-x64.exe>`__
-     - .exe
-     - 64-bit x86
-     - 1,4 MB
 
 
 
-**7-Zip 21.00 alpha für Windows ARM64 herunterladen**:
+**7-Zip 21.03 beta (20.07.2021) für Windows herunterladen**:
 
 .. list-table::
    :widths: 60 60 124 70
@@ -63,11 +42,19 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2100-arm64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2103-x64.exe>`__
+     - .exe
+     - 64-bit x86
+     - 1,4 MB
+   * - `Download <https://7-zip.org/a/7z2103.exe>`__
+     - .exe
+     - 32-bit x86
+     - 1,2 MB
+   * - `Download <https://7-zip.org/a/7z2103-arm64.exe>`__
      - .exe
      - 64-bit ARM64
      - 1,5 MB
- 
+
 
 Die Downloadlinks leiten auf die Seiten von 7-zip.org weiter.
 
