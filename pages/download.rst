@@ -32,7 +32,7 @@
 
 
 
-**Download von 7-Zip 21.03 beta (20.07.2021)**:
+**Download von 7-Zip 21.04 beta (02.11.2021)**:
 
 .. table::
     :widths: 11 10 14 65
@@ -40,29 +40,29 @@
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
     | Link                                                          | Version  | System                       | Beschreibung                                                                      |
     +===============================================================+==========+==============================+===================================================================================+
-    | `Download <https://7-zip.org/a/7z2103-x64.exe>`__             | .exe     | 64-bit Windows x64           | 7-Zip für Windows                                                                 |
+    | `Download <https://7-zip.org/a/7z2104-x64.exe>`__             | .exe     | 64-bit Windows x64           | 7-Zip für Windows                                                                 |
     +---------------------------------------------------------------+----------+------------------------------+                                                                                   |
-    | `Download <https://7-zip.org/a/7z2103.exe>`__                 | .exe     | 32-bit Windows x86           |                                                                                   |
+    | `Download <https://7-zip.org/a/7z2104.exe>`__                 | .exe     | 32-bit Windows x86           |                                                                                   |
     +---------------------------------------------------------------+----------+------------------------------+                                                                                   |
-    | `Download <https://7-zip.org/a/7z2100-arm64.exe>`__           | .exe     | 64-bit Windows arm64         |                                                                                   |
+    | `Download <https://7-zip.org/a/7z2104-arm64.exe>`__           | .exe     | 64-bit Windows arm64         |                                                                                   |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2103-x64.msi>`__             | .msi     | 64-bit Windows x64           | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64 (Intel 64 oder AMD64)   |
+    | `Download <https://7-zip.org/a/7z2104-x64.msi>`__             | .msi     | 64-bit Windows x64           | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64 (Intel 64 oder AMD64)   |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2103.msi>`__                 | .msi     | 32-bit Windows x86           | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                             |
+    | `Download <https://7-zip.org/a/7z2104.msi>`__                 | .msi     | 32-bit Windows x86           | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                             |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2103-extra.7z>`__            | .7z      | Windows x86 / x64            | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager           |
+    | `Download <https://7-zip.org/a/7z2104-extra.7z>`__            | .7z      | Windows x86 / x64            | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager           |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2103-linux-x64.tar.xz>`__    | .tar.xz  | 64-bit Linux x86-64          | 7-Zip für Linux: Konsolenversion                                                  |
+    | `Download <https://7-zip.org/a/7z2104-linux-x64.tar.xz>`__    | .tar.xz  | 64-bit Linux x86-64          | 7-Zip für Linux: Konsolenversion                                                  |
     +---------------------------------------------------------------+----------+------------------------------+                                                                                   |
-    | `Download <https://7-zip.org/a/7z2103-linux-x86.tar.xz>`__    | .tar.xz  | 32-bit Linux x86             |                                                                                   |
+    | `Download <https://7-zip.org/a/7z2104-linux-x86.tar.xz>`__    | .tar.xz  | 32-bit Linux x86             |                                                                                   |
     +---------------------------------------------------------------+----------+------------------------------+                                                                                   |
-    | `Download <https://7-zip.org/a/7z2103-linux-arm64.tar.xz>`__  | .tar.xz  | 64-bit Linux arm64           |                                                                                   |
+    | `Download <https://7-zip.org/a/7z2104-linux-arm64.tar.xz>`__  | .tar.xz  | 64-bit Linux arm64           |                                                                                   |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2103-mac.tar.xz>`__          | .tar.xz  | macOS (arm64 / x86-64)       | 7-Zip für macOS: Konsolenversion                                                  |
+    | `Download <https://7-zip.org/a/7z2104-mac.tar.xz>`__          | .tar.xz  | macOS (arm64 / x86-64)       | 7-Zip für macOS: Konsolenversion                                                  |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2103-src.7z>`__              | .7z      | Alle / Windows               | 7-Zip Quelltext                                                                   |
+    | `Download <https://7-zip.org/a/7z2104-src.7z>`__              | .7z      | Alle / Windows               | 7-Zip Quelltext                                                                   |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/lzma2103.7z>`__                | .7z      | Alle / Windows               | LZMA SDK (C, C++, C#, Java)                                                       |
+    | `Download <https://7-zip.org/a/lzma2104.7z>`__                | .7z      | Alle / Windows               | LZMA SDK (C, C++, C#, Java)                                                       |
     +---------------------------------------------------------------+----------+------------------------------+-----------------------------------------------------------------------------------+
 
 
