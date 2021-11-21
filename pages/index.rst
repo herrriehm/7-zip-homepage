@@ -11,28 +11,7 @@
 **7-Zip** ist ein Datenkompressionsprogramm mit einer hohen
 Kompressionsrate.
 
-**7-Zip 19.00 (21.02.2019) für Windows herunterladen**:
-
-.. list-table::
-   :widths: 60 60 124 70
-   :header-rows: 1
-
-   * - Link
-     - Version
-     - Windows
-     - Größe
-   * - `Download <https://7-zip.org/a/7z1900-x64.exe>`__
-     - .exe
-     - 64-bit x86
-     - 1,4 MB
-   * - `Download <https://7-zip.org/a/7z1900.exe>`__
-     - .exe
-     - 32-bit x86
-     - 1,2 MB
-
-
-
-**7-Zip 21.05 beta (20.11.2021) für Windows herunterladen**:
+**7-Zip 21.05 (20.11.2021) für Windows herunterladen**:
 
 .. list-table::
    :widths: 60 60 124 70
