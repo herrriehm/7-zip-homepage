@@ -1,37 +1,17 @@
+- newstitle: '7-Zip 21.05'
+  newsdate:  '20.11.2021'
+  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/edcb38bbab/'
+  newstext:  ' 7-Zip 21.05'
+
 - newstitle: '7-Zip 21.04'
   newsdate:  '02.11.2021'
   newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/ba29828ce0/'
   newstext:  ' 7-Zip 21.04 beta'
 
-- newstitle: '7-Zip 21.03'
-  newsdate:  '20.07.2021'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/9f5b067368/'
-  newstext:  ' 7-Zip 21.03 beta'
-
-- newstitle: '7-Zip 21.02'
-  newsdate:  '06.05.2021'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/7fe6c21efa/'
-  newstext:  ' 7-Zip 21.02 alpha'
-
-- newstitle: '7-Zip 21.01'
-  newsdate:  '09.03.2021'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/d401ab2966/'
-  newstext:  ' 7-Zip 21.01 alpha'
-
 - newstitle: '7-Zip 21.01'
   newsdate:  '09.03.2021'
   newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/cec5e63147/'
   newstext:  ' 7-Zip für Linux'
-
-- newstitle: '7-Zip 21.00'
-  newsdate:  '19.01.2021'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/dd4edab390/'
-  newstext:  ' 7-Zip 21.00 alpha'
-
-- newstitle: '7-Zip für ARM64'
-  newsdate:  '08.08.2020'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/7d5b1e5b51/'
-  newstext:  ' 7-Zip für ARM64'
 
 - newstitle: '7-Zip 19.00'
   newsdate:  '21.02.2019'

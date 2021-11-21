@@ -32,7 +32,7 @@ Kompressionsrate.
 
 
 
-**7-Zip 21.04 beta (02.11.2021) für Windows herunterladen**:
+**7-Zip 21.05 beta (20.11.2021) für Windows herunterladen**:
 
 .. list-table::
    :widths: 60 60 124 70
@@ -42,15 +42,15 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2104-x64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2105-x64.exe>`__
      - .exe
      - 64-bit x86
      - 1,5 MB
-   * - `Download <https://7-zip.org/a/7z2104.exe>`__
+   * - `Download <https://7-zip.org/a/7z2105.exe>`__
      - .exe
      - 32-bit x86
      - 1,2 MB
-   * - `Download <https://7-zip.org/a/7z2104-arm64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2105-arm64.exe>`__
      - .exe
      - 64-bit ARM64
      - 1,5 MB
