@@ -11,7 +11,7 @@
 **7-Zip** ist ein Datenkompressionsprogramm mit einer hohen
 Kompressionsrate.
 
-**7-Zip 21.05 (20.11.2021) für Windows herunterladen**:
+**7-Zip 21.06 (24.11.2021) für Windows herunterladen**:
 
 .. list-table::
    :widths: 60 60 124 70
@@ -21,15 +21,15 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2105-x64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2106-x64.exe>`__
      - .exe
      - 64-bit x86
      - 1,5 MB
-   * - `Download <https://7-zip.org/a/7z2105.exe>`__
+   * - `Download <https://7-zip.org/a/7z2106.exe>`__
      - .exe
      - 32-bit x86
      - 1,2 MB
-   * - `Download <https://7-zip.org/a/7z2105-arm64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2106-arm64.exe>`__
      - .exe
      - 64-bit ARM64
      - 1,5 MB
