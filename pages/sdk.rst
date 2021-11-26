@@ -20,9 +20,11 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
     | Link                                                     | Größe | Datum      | Version     | Beschreibung                       |
     +==========================================================+=======+============+=============+====================================+
-    | `Download <https://7-zip.org/a/lzma2104.7z>`__           |  1 MB | 02.11.2021 | 21.04 beta  | | LZMA SDK                         |
+    | `Download <https://7-zip.org/a/lzma2106.7z>`__           |  1 MB | 24.11.2021 | 21.06       | | LZMA SDK                         |
     +----------------------------------------------------------+-------+------------+-------------+ | C, C++, C#, Java                 |
-    | `Download <https://7-zip.org/a/lzma1900.7z>`__           |  1 MB | 21.02.2019 | 19.00       | | x86/x64-Binärdateien für Windows |
+    | `Download <https://7-zip.org/a/lzma2104.7z>`__           |  1 MB | 02.11.2021 | 21.04 beta  | | x86/x64-Binärdateien für Windows |
+    +----------------------------------------------------------+-------+------------+-------------+                                    |
+    | `Download <https://7-zip.org/a/lzma1900.7z>`__           |  1 MB | 21.02.2019 | 19.00       |                                    |
     +----------------------------------------------------------+-------+------------+-------------+                                    |
     | `Download <https://7-zip.org/a/lzma1604.7z>`__           |  1 MB | 04.10.2016 | 16.04       |                                    |
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
@@ -32,6 +34,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
+-  **21.06:** Der Bug in der LZMA-Encoding-Funktion wurde behoben.
 -  **21.03 beta:** LZMA-Wörterbuch bis zu 4 GB. Geschwindigkeitsoptimierungen.
 -  **21.02 alpha:** Unterstützung für macOS und Linux. Geschwindigkeitsoptimierungen.
 -  **19.00:** Stärke der Verschlüsselung für 7z-Archive wurde erhöht.
@@ -42,7 +45,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 -  **9.20:** Neues kleines SFX-Modul für Installationsroutinen.
 -  **9.11:** Unterstützung für PPMd.
 -  **9.04:** Unterstützung für LZMA2 und XZ.
--  **4.62:** Einige Fehler wurden behoben. LZMA SDK wird Public Domain.
+-  **4.62:** LZMA SDK wird Public Domain.
 
 **LZMA / LZMA2** sind die voreingestellte und allgemeine Kompressionsmethoden des :doc:`7z-Formates <7z>` in **7-Zip**. **LZMA** bietet eine hohe Kompressionsrate und sehr schnelle Dekompression, so dass es sich sehr gut für eingebettete Anwendungen eignet. Beispielsweise kann es zur ROM (Firmware)-Kompression benutzt werden.
 
