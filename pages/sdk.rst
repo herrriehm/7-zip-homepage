@@ -20,11 +20,9 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
     | Link                                                     | Größe | Datum      | Version     | Beschreibung                       |
     +==========================================================+=======+============+=============+====================================+
-    | `Download <https://7-zip.org/a/lzma2106.7z>`__           |  1 MB | 24.11.2021 | 21.06       | | LZMA SDK                         |
+    | `Download <https://7-zip.org/a/lzma2107.7z>`__           |  1 MB | 26.12.2021 | 21.07       | | LZMA SDK                         |
     +----------------------------------------------------------+-------+------------+-------------+ | C, C++, C#, Java                 |
-    | `Download <https://7-zip.org/a/lzma2104.7z>`__           |  1 MB | 02.11.2021 | 21.04 beta  | | x86/x64-Binärdateien für Windows |
-    +----------------------------------------------------------+-------+------------+-------------+                                    |
-    | `Download <https://7-zip.org/a/lzma1900.7z>`__           |  1 MB | 21.02.2019 | 19.00       |                                    |
+    | `Download <https://7-zip.org/a/lzma1900.7z>`__           |  1 MB | 21.02.2019 | 19.00       | | x86/x64-Binärdateien für Windows |
     +----------------------------------------------------------+-------+------------+-------------+                                    |
     | `Download <https://7-zip.org/a/lzma1604.7z>`__           |  1 MB | 04.10.2016 | 16.04       |                                    |
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
@@ -34,6 +32,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
+-  **21.07:** Einige kleinere Änderungen und Korrekturen.
 -  **21.06:** Der Bug in der LZMA-Encoding-Funktion wurde behoben.
 -  **21.03 beta:** LZMA-Wörterbuch bis zu 4 GB. Geschwindigkeitsoptimierungen.
 -  **21.02 alpha:** Unterstützung für macOS und Linux. Geschwindigkeitsoptimierungen.

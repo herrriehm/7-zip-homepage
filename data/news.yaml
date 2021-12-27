@@ -1,22 +1,12 @@
+- newstitle: '7-Zip 21.07'
+  newsdate:  '26.12.2021'
+  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/0a7b47970b/'
+  newstext:  ' 7-Zip 21.07'
+
 - newstitle: '7-Zip 21.06'
   newsdate:  '24.11.2021'
   newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/b463f34259/'
   newstext:  ' 7-Zip 21.06'
-
-- newstitle: '7-Zip 21.05'
-  newsdate:  '20.11.2021'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/edcb38bbab/'
-  newstext:  ' 7-Zip 21.05'
-
-- newstitle: '7-Zip 21.04'
-  newsdate:  '02.11.2021'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/ba29828ce0/'
-  newstext:  ' 7-Zip 21.04 beta'
-
-- newstitle: '7-Zip 21.01'
-  newsdate:  '09.03.2021'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/cec5e63147/'
-  newstext:  ' 7-Zip für Linux'
 
 - newstitle: '7-Zip 19.00'
   newsdate:  '21.02.2019'
