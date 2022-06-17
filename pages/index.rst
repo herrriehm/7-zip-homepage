@@ -23,7 +23,7 @@ Kompressionsrate.
      - Größe
    * - `Download <https://7-zip.org/a/7z2107-x64.exe>`__
      - .exe
-     - 64-bit x86
+     - 64-bit x64
      - 1,5 MB
    * - `Download <https://7-zip.org/a/7z2107.exe>`__
      - .exe
