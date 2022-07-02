@@ -159,6 +159,7 @@ NAVIGATION_ALT_LINKS = {
         ("https://www.spiroo.be/7zip/", "Französisch"),
         ("https://sevenzip.osdn.jp/", "Japanisch"),
         ("https://7zip.idfoss.org/", "Malaiisch"),
+        ("https://7-zip.ir/", "Persisch"),
         ("https://7zip.rnbastos.com/", "Portugiesisch"),
         ("https://7zip-es.updatestar.com/", "Spanisch"),
         ("https://7zip-thai.inetbridge.net/", "Thai"),
