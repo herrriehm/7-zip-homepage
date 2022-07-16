@@ -20,7 +20,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
     | Link                                                     | Größe | Datum      | Version     | Beschreibung                       |
     +==========================================================+=======+============+=============+====================================+
-    | `Download <https://7-zip.org/a/lzma2200.7z>`__           |  1 MB | 15.06.2022 | 22.00       | | LZMA SDK                         |
+    | `Download <https://7-zip.org/a/lzma2201.7z>`__           |  1 MB | 15.07.2022 | 22.01       | | LZMA SDK                         |
     +----------------------------------------------------------+-------+------------+-------------+ | C, C++, C#, Java                 |
     | `Download <https://7-zip.org/a/lzma1900.7z>`__           |  1 MB | 21.02.2019 | 19.00       | | x86/x64-Binärdateien für Windows |
     +----------------------------------------------------------+-------+------------+-------------+                                    |
@@ -32,7 +32,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
--  **21.07:** Einige kleinere Änderungen und Korrekturen.
+-  **21.07:** Einige kleine Änderungen und Korrekturen.
 -  **21.06:** Der Bug in der LZMA-Encoding-Funktion wurde behoben.
 -  **21.03 beta:** LZMA-Wörterbuch bis zu 4 GB. Geschwindigkeitsoptimierungen.
 -  **21.02 alpha:** Unterstützung für macOS und Linux. Geschwindigkeitsoptimierungen.
