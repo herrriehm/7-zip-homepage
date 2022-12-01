@@ -51,7 +51,7 @@ Die Hauptfunktionen von 7-Zip
 -  Unterstützte Formate:
 
    -  Packen/Entpacken: 7z, XZ, BZIP2, GZIP, TAR, ZIP und WIM
-   -  Nur Entpacken: AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VHDX, VMDK, WIM, XAR und Z.
+   -  Nur Entpacken: AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VHDX, VMDK, XAR und Z.
 
 -  Bei ZIP- und GZIP-Formaten ist die Kompressionsrate von **7-Zip** um etwa 2–10 % besser als die von PKZip oder WinZip
 -  Starke Verschlüsselung mit AES-256 im 7z- und ZIP-Format
