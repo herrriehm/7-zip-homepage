@@ -60,6 +60,8 @@ Einige informative Links zu 7-Zip:
 -  `7-Zip-JBinding ist ein Java-Wrapper für die 7-Zip C++-Bibliothek <https://sourceforge.net/projects/sevenzipjbind/>`__
 -  `KeyOnZip Smart Key-Verwaltung KeyOnDemand, basierend auf 7-Zip <https://code.google.com/archive/p/keyonzip/>`__
 -  `Online Archive umwandeln benutzt p7zip (7-Zip) <https://www.files-conversion.com/archive-converter.php>`__
+-  `7-Zip WASM <https://github.com/use-strict/7z-wasm>`__
+-  `ZipZip - Online-Archive-Manager, der 7-Zip-WASM nutzt <https://zipzip.pro/>`__
 
 --------------
 
