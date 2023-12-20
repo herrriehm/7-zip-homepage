@@ -11,7 +11,7 @@
 **7-Zip** ist ein Datenkompressionsprogramm mit einer hohen
 Kompressionsrate.
 
-**7-Zip 22.01 (15.07.2022) für Windows herunterladen**:
+**7-Zip 23.01 (20.06.2023) für Windows herunterladen**:
 
 .. list-table::
    :widths: 60 60 124 70
@@ -21,15 +21,26 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2201-x64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2301-x64.exe>`__
      - .exe
      - 64-bit x64
      - 1,5 MB
-   * - `Download <https://7-zip.org/a/7z2201.exe>`__
+
+**7-Zip 23.01 (20.06.2023) für andere Windows-Plattformen (32-bit x86 oder ARM64) herunterladen**:
+
+.. list-table::
+   :widths: 60 60 124 70
+   :header-rows: 1
+
+   * - Link
+     - Version
+     - Windows
+     - Größe
+   * - `Download <https://7-zip.org/a/7z2301.exe>`__
      - .exe
      - 32-bit x86
      - 1,2 MB
-   * - `Download <https://7-zip.org/a/7z2201-arm64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2301-arm64.exe>`__
      - .exe
      - 64-bit ARM64
      - 1,5 MB
@@ -51,7 +62,7 @@ Die Hauptfunktionen von 7-Zip
 -  Unterstützte Formate:
 
    -  Packen/Entpacken: 7z, XZ, BZIP2, GZIP, TAR, ZIP und WIM
-   -  Nur Entpacken: AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VHDX, VMDK, XAR und Z.
+   -  Nur Entpacken: APFS, AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VHDX, VMDK, XAR und Z.
 
 -  Bei ZIP- und GZIP-Formaten ist die Kompressionsrate von **7-Zip** um etwa 2–10 % besser als die von PKZip oder WinZip
 -  Starke Verschlüsselung mit AES-256 im 7z- und ZIP-Format
@@ -62,34 +73,8 @@ Die Hauptfunktionen von 7-Zip
 -  Plugin für den FAR-Manager verfügbar
 -  In 87 Sprachen übersetzt
 
-**7-Zip** läuft auf Windows 10 / 8 / 7 / Vista / XP / 2019 / 2016 / 2012 / 2008 / 2003 / 2000.
-
-`p7zip <https://sourceforge.net/projects/p7zip/>`__ – Port der Kommandozeilenversion von 7-Zip nach Linux/Posix.
+**7-Zip** läuft auf Windows 11 / 10 / 8 / 7 / Vista / XP / 2022 / 2019 / 2016 / 2012 / 2008 / 2003 / 2000.
 
 Auf `7-Zips SourceForge-Seite <https://sourceforge.net/projects/sevenzip/>`__ finden Sie ein Forum, Fehlerberichte und die Möglichkeit, neue Funktionen vorzuschlagen.
-
-Kompressionsrate
-----------------
-
-Wir haben **7-Zip** mit WinRAR 5.20 verglichen.
-
-**DATEIEN:** Mozilla Firefox 34.0.5 für Windows und Google Earth 6.2.2.6613 für Windows.
-
-+-----------------------+-----------------------------------------+-----------------------------------------+
-| **Archiver**          | **Mozilla Firefox**                     | **Google Earth**                        |
-+                       +-----------------------------------------+-----------------------------------------+
-|                       | | **65 Dateien**                        | | **483 Dateien**                       |
-|                       | | **85 280 391 Bytes**                  | | **110 700 519 Bytes**                 |
-+                       +------------------------+----------------+------------------------+----------------+
-|                       | **Komprimierte Größe** | **Verhältnis** | **Komprimierte Größe** | **Verhältnis** |
-+=======================+========================+================+========================+================+
-| | **7-Zip 9.35**      | **39 357 375**         | **100 %**      | **15 964 369**         | **100 %**      |
-| | **-mx**             |                        |                |                        |                |
-+-----------------------+------------------------+----------------+------------------------+----------------+
-| | WinRAR 5.20         | 41 789 543             | 106 %          | 17 035 432             | 107 %          |
-| | -m5 -s -ma5 -md128m |                        |                |                        |                |
-+-----------------------+------------------------+----------------+------------------------+----------------+
-
-Die resultierenden Kompressionsraten variieren je nach benutzten Dateien sehr stark. Normalerweise komprimiert **7-Zip** im 7z-Format etwa 30–70 % besser als im ZIP-Format. Und **7-Zip** komprimiert im ZIP-Format 2–10 % besser als die meisten anderen ZIP-kompatiblen Programme.
 
 Der Download von 7-Zip ist kostenlos von dieser Seite möglich. In der letzten Zeit erreichen uns vermehrt Beschwerden über Firmen, die das Programm gegen eine Gebühr zum Download anbieten. :doc:`Weitere Informationen <support>`

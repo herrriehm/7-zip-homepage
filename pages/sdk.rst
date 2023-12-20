@@ -20,11 +20,9 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
     | Link                                                     | Größe | Datum      | Version     | Beschreibung                       |
     +==========================================================+=======+============+=============+====================================+
-    | `Download <https://7-zip.org/a/lzma2201.7z>`__           |  1 MB | 15.07.2022 | 22.01       | | LZMA SDK                         |
+    | `Download <https://7-zip.org/a/lzma2301.7z>`__           |  1 MB | 30.06.2023 | 23.01       | | LZMA SDK                         |
     +----------------------------------------------------------+-------+------------+-------------+ | C, C++, C#, Java                 |
-    | `Download <https://7-zip.org/a/lzma1900.7z>`__           |  1 MB | 21.02.2019 | 19.00       | | x86/x64-Binärdateien für Windows |
-    +----------------------------------------------------------+-------+------------+-------------+                                    |
-    | `Download <https://7-zip.org/a/lzma1604.7z>`__           |  1 MB | 04.10.2016 | 16.04       |                                    |
+    | `Download <https://7-zip.org/a/lzma2201.7z>`__           |  1 MB | 15.07.2022 | 22.01       | | x86/x64-Binärdateien für Windows |
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
     | `Download <https://7-zip.org/a/lzma-specification.7z>`__ | 12 KB | 14.06.2015 |             | LZMA-Spezifikation (Entwurf)       |
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
@@ -32,6 +30,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
+-  **23.01:** Neuer Filter für ARM64-Programme. BCJ2-Filter wurde für eine bessere Kompressionsrate verbessert. Einige Bugs wurden behoben.
 -  **21.07:** Einige kleine Änderungen und Korrekturen.
 -  **21.06:** Der Bug in der LZMA-Encoding-Funktion wurde behoben.
 -  **21.03 beta:** LZMA-Wörterbuch bis zu 4 GB. Geschwindigkeitsoptimierungen.
@@ -64,11 +63,11 @@ Die Quelltexte in **ANSI-C** und **C++** des LZMA SDK sind Teile des Quelltextes
 
 Eigenschaften von **LZMA**:
 
--  Kompressionsgeschwindigkeit: 3 MB/s mit 3 GHz Dual-Core CPU.
--  Dekompressionsgeschwindigkeit:
+-  Kompressionsgeschwindigkeit: 2–8 MB/s auf einer 4-GHz-CPU mit zwei CPU-Threads.
+-  Dekompressionsgeschwindigkeit auf einem einzelnen CPU-Thread:
 
-   -  20–50 MB/s mit moderner 2 GHz CPU (Intel, AMD).
-   -  5–10 MB/s mit einfacher 1 GHz RISC CPU (ARM, MIPS, PowerPC)
+   -  30–100 MB/s auf moderner 4-GHz-CPU (Intel, AMD, ARM).
+   -  5–15 MB/s auf einfacher 1-GHz-RISC-CPU (ARM, MIPS, PowerPC).
 
 -  Nur wenig Arbeitsspeicher zum Dekomprimieren nötig: 8–32 KB + Wörterbuchgröße
 -  Geringe Größe beim Entpacken: 2–8 KB (abhängig von Geschwindigkeitsoptimierungen)

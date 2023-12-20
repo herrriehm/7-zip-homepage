@@ -27,6 +27,18 @@ Falls Sie im Forum eine Frage zu einem Problem mit 7-Zip stellen, geben Sie bitt
 -  7-Zip-Version und -Typ (32-bit/64-bit)
 -  Windows-Version und -Typ (32-bit/64-bit)
 
+Wenn Sie von einem Fehler im 7-Zip-Code wissen, können Sie ein neues Ticket im Abschnitt BUGs erstellen:
+
+`7-Zip's BUGs-Tickets auf SourceForge <https://sourceforge.net/p/sevenzip/bugs/>`__
+
+Bitte markieren Sie das Ticket als „Mark as Private“, wenn Sie über eine mögliche Sicherheitslücke in 7-Zip berichten möchten.
+
+Wenn Sie eine Nachricht an den Entwickler von 7-Zip senden möchten, können Sie dies über den SourceForge-Dienst „Send Message“ tun oder ein Support-Ticket mit der Kennzeichnung „Mark as Private“ erstellen:
+
+`7-Zip's Support-Anfragen-Tickets auf SourceForge <https://sourceforge.net/p/sevenzip/support-requests/>`__
+
+
+
 .. class:: b8e
 
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -53,13 +65,13 @@ Impressum
 +----------------+------------------------------------------------------------------------------------------------------------------+
 | Kontakt:       | Sebastian Riehm                                                                                                  |
 |                |                                                                                                                  |
-|                | Brabantstraße 81                                                                                                 |
+|                | Schubertstraße 32                                                                                                |
 |                |                                                                                                                  |
-|                | 52070 Aachen                                                                                                     |
+|                | 66822 Lebach                                                                                                     |
 |                |                                                                                                                  |
 |                | kontakt@7-zip.de                                                                                                 |
 +----------------+------------------------------------------------------------------------------------------------------------------+
-|                | Bitte haben Sie Verständnis dafür, dass wir keine Hilfe bei Problemen mit 7-Zip geben können.                    |
+|                | Bitte haben Sie Verständnis dafür, dass wir keine Hilfe bei Problemen mit 7-Zip geben können.                    |
 |                | Diese erhalten Sie im `Forum bei SourceForge <https://sourceforge.net/projects/sevenzip/forums/forum/45797>`__.  |
 |                | Kontaktieren Sie uns deswegen nur bei Fragen und Anregungen zu dieser Webseite.                                  |
 +----------------+------------------------------------------------------------------------------------------------------------------+

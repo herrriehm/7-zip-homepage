@@ -152,13 +152,11 @@ NAVIGATION_LINKS = {
 NAVIGATION_ALT_LINKS = {
     DEFAULT_LANG: (
         ("#", "Deutsch"),
-        ("https://sparanoid.com/lab/7z/", "Chinesisch Simpl."),
         ("https://www.developershome.com/7-zip/", "Chinesisch Trad."),
         ("https://7-zip.org/", "Englisch"),
         ("https://7zip-eo.rnbastos.com/", "Esperanto"),
         ("https://www.spiroo.be/7zip/", "Französisch"),
-        ("https://sevenzip.osdn.jp/", "Japanisch"),
-        ("https://7zip.idfoss.org/", "Malaiisch"),
+        ("https://7-zip.opensource.jp/", "Japanisch"),
         ("https://7-zip.ir/", "Persisch"),
         ("https://7zip.rnbastos.com/", "Portugiesisch"),
         ("https://7zip-es.updatestar.com/", "Spanisch"),

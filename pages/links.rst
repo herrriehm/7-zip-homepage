@@ -1,15 +1,22 @@
 .. title: Links
 .. slug: links
-.. date: 2020-08-24T21:19:46+02:00
+.. date: 2023-12-17T18:20:34+01:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 
-`7-Zips SourceForge-Seite <https://sourceforge.net/projects/sevenzip/>`__
+`7-Zip bei Sourceforge <https://sourceforge.net/projects/sevenzip/>`__
 
 `7-Zips Forum bei SourceForge <https://sourceforge.net/p/sevenzip/discussion/45797/>`__
+
+`7-Zip.org-Mirror bei SourceForge <https://sevenzip.sourceforge.io/>`__
+
+`7-Zip bei Github <https://github.com/ip7z/7zip>`__
+
+`7-Zip-Releases bei Github <https://github.com/ip7z/7zip/releases>`__
+
 
 p7zip
 -----
