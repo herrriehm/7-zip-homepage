@@ -68,12 +68,12 @@ Impressum
 |                | Schubertstraße 32                                                                                                |
 |                |                                                                                                                  |
 |                | 66822 Lebach                                                                                                     |
-|                |                                                                                                                  |
-|                | kontakt@7-zip.de                                                                                                 |
 +----------------+------------------------------------------------------------------------------------------------------------------+
 |                | Bitte haben Sie Verständnis dafür, dass wir keine Hilfe bei Problemen mit 7-Zip geben können.                    |
-|                | Diese erhalten Sie im `Forum bei SourceForge <https://sourceforge.net/projects/sevenzip/forums/forum/45797>`__.  |
-|                | Kontaktieren Sie uns deswegen nur bei Fragen und Anregungen zu dieser Webseite.                                  |
+|                | Hilfe erhalten Sie im `Forum bei SourceForge <https://sourceforge.net/projects/sevenzip/forums/forum/45797>`__.  |
+|                | Kontaktieren Sie uns deswegen bitte nur bei Fragen und Anregungen zu dieser Webseite.                            |
+|                |                                                                                                                  |
+|                | kontakt@7-zip.de                                                                                                 |
 +----------------+------------------------------------------------------------------------------------------------------------------+
 
 Datenschutz
