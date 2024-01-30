@@ -153,6 +153,7 @@ NAVIGATION_ALT_LINKS = {
     DEFAULT_LANG: (
         ("#", "Deutsch"),
         ("https://www.developershome.com/7-zip/", "Chinesisch Trad."),
+        ("https://sparanoid.com/lab/7z/", "Chinesisch vereinfacht"),
         ("https://7-zip.org/", "Englisch"),
         ("https://7zip-eo.rnbastos.com/", "Esperanto"),
         ("https://www.spiroo.be/7zip/", "Französisch"),
