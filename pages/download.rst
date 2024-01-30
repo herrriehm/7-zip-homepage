@@ -46,7 +46,7 @@
     | `Download <https://7-zip.org/a/7zr.exe>`__                   | .exe    | Windows                | 7zr.exe (x86) : 7-Zip-Konsolenanwendung                                         |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
 
-Wir empfehlen die Verwendung des exe-Installationsprogramms anstelle der msi-Installationsversion.
+Wir empfehlen die Verwendung des **exe**-Installationsprogramms anstelle der **msi**-Installationsversion.
 
 
 **Download von 7-Zip 19.00 (21.02.2019) für Windows**:
@@ -140,13 +140,6 @@ Sie können die neuesten Versionen von 7-Zip von GitHub herunterladen:
 Sie können beliebige Versionen von 7-Zip von SourceForge herunterladen:
 
 `7-Zip-Dateien bei SourceForge <https://sourceforge.net/projects/sevenzip/files/>`__
-
-`7-Zip bei SourceForge <https://sourceforge.net/projects/sevenzip/>`__
-
-
-Sie können alle Versionen von 7-Zip (auch die aktuellsten Beta-Versionen) von SourceForge herunterladen:
-
-`Alle Dateien von 7-Zip bei SourceForge <https://sourceforge.net/projects/sevenzip/files/>`__
 
 `7-Zip bei SourceForge <https://sourceforge.net/projects/sevenzip/>`__
 
