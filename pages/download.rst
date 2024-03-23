@@ -1,5 +1,5 @@
 .. slug: download
-.. date: 2024-03-23T08:22:57+01:00
+.. date: 2024-03-23T21:05:06+01:00
 .. tags:
 .. category:
 .. link:
@@ -7,7 +7,7 @@
 .. type: text
 
 
-**Download von 7-Zip 24.02 (22.03.2024) für Windows**:
+**Download von 7-Zip 24.03 (23.03.2024) für Windows**:
 
 .. table::
     :widths: 11 10 15 64
@@ -15,23 +15,23 @@
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
     | Link                                                         | Version | System                 | Beschreibung                                                                    |
     +==============================================================+=========+========================+=================================================================================+
-    | `Download <https://7-zip.org/a/7z2402-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
+    | `Download <https://7-zip.org/a/7z2403-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2402.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2403.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2402-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2403-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2402-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
+    | `Download <https://7-zip.org/a/7z2403-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2402.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
+    | `Download <https://7-zip.org/a/7z2403.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2402-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
+    | `Download <https://7-zip.org/a/7z2403-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
 
 Wir empfehlen die Verwendung des **exe**-Installationsprogramms anstelle der **msi**-Installationsversion.
 
 
-**Download von 7-Zip 24.02 (22.03.2024) für Linux und macOS**:
+**Download von 7-Zip 24.03 (23.03.2024) für Linux und macOS**:
 
 .. table::
     :widths: 11 10 15 64
@@ -39,15 +39,15 @@ Wir empfehlen die Verwendung des **exe**-Installationsprogramms anstelle der **m
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
     | Link                                                         | Version | System                 | Beschreibung                                                                    |
     +==============================================================+=========+========================+=================================================================================+
-    | `Download <https://7-zip.org/a/7z2402-linux-x64.tar.xz>`__   | .tar.xz | 64-bit Linux x86-64    | 7-Zip für Linux: Konsolenversion                                                |
+    | `Download <https://7-zip.org/a/7z2403-linux-x64.tar.xz>`__   | .tar.xz | 64-bit Linux x86-64    | 7-Zip für Linux: Konsolenversion                                                |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2402-linux-x86.tar.xz>`__   | .tar.xz | 32-bit Linux x86       |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2403-linux-x86.tar.xz>`__   | .tar.xz | 32-bit Linux x86       |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2402-linux-arm64.tar.xz>`__ | .tar.xz | 64-bit Linux arm64     |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2403-linux-arm64.tar.xz>`__ | .tar.xz | 64-bit Linux arm64     |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2402-linux-arm.tar.xz>`__   | .tar.xz | 32-bit Linux arm       |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2403-linux-arm.tar.xz>`__   | .tar.xz | 32-bit Linux arm       |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2402-mac.tar.xz>`__         | .tar.xz | macOS (arm64 / x86-64) | 7-Zip für macOS: Konsolenversion                                                |
+    | `Download <https://7-zip.org/a/7z2403-mac.tar.xz>`__         | .tar.xz | macOS (arm64 / x86-64) | 7-Zip für macOS: Konsolenversion                                                |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
 
 
