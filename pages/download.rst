@@ -1,5 +1,5 @@
 .. slug: download
-.. date: 2024-03-23T21:05:06+01:00
+.. date: 2024-04-05T18:53:19+02:00
 .. tags:
 .. category:
 .. link:
@@ -7,7 +7,7 @@
 .. type: text
 
 
-**Download von 7-Zip 24.03 (23.03.2024) für Windows**:
+**Download von 7-Zip 24.04 (05.04.2024) für Windows**:
 
 .. table::
     :widths: 11 10 15 64
@@ -15,17 +15,17 @@
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
     | Link                                                         | Version | System                 | Beschreibung                                                                    |
     +==============================================================+=========+========================+=================================================================================+
-    | `Download <https://7-zip.org/a/7z2403-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
+    | `Download <https://7-zip.org/a/7z2404-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2403.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2404.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2403-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2404-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2403-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
+    | `Download <https://7-zip.org/a/7z2404-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2403.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
+    | `Download <https://7-zip.org/a/7z2404.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2403-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
+    | `Download <https://7-zip.org/a/7z2404-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
 
 Wir empfehlen die Verwendung des **exe**-Installationsprogramms anstelle der **msi**-Installationsversion.
