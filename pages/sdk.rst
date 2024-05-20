@@ -1,6 +1,6 @@
 .. title: LZMA SDK (Software Development Kit)
 .. slug: sdk
-.. date: 2019-04-07T21:19:46+02:00
+.. date: 2024-05-20T09:13:52+02:00
 .. tags: 
 .. category: 
 .. link: 
@@ -20,9 +20,9 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
     | Link                                                     | Größe | Datum      | Version     | Beschreibung                       |
     +==========================================================+=======+============+=============+====================================+
-    | `Download <https://7-zip.org/a/lzma2301.7z>`__           |  1 MB | 30.06.2023 | 23.01       | | LZMA SDK                         |
+    | `Download <https://7-zip.org/a/lzma2405.7z>`__           |  1 MB | 14.05.2024 | 24.05       | | LZMA SDK                         |
     +----------------------------------------------------------+-------+------------+-------------+ | C, C++, C#, Java                 |
-    | `Download <https://7-zip.org/a/lzma2201.7z>`__           |  1 MB | 15.07.2022 | 22.01       | | x86/x64-Binärdateien für Windows |
+    | `Download <https://7-zip.org/a/lzma2301.7z>`__           |  1 MB | 20.06.2023 | 23.01       | | x86/x64-Binärdateien für Windows |
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
     | `Download <https://7-zip.org/a/lzma-specification.7z>`__ | 12 KB | 14.06.2015 |             | LZMA-Spezifikation (Entwurf)       |
     +----------------------------------------------------------+-------+------------+-------------+------------------------------------+
@@ -30,6 +30,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
+-  **24.05:** Neuer Filter für RISC-V-Programme.
 -  **23.01:** Neuer Filter für ARM64-Programme. BCJ2-Filter wurde für eine bessere Kompressionsrate verbessert. Einige Bugs wurden behoben.
 -  **21.07:** Einige kleine Änderungen und Korrekturen.
 -  **21.06:** Der Bug in der LZMA-Encoding-Funktion wurde behoben.
