@@ -1,5 +1,5 @@
 .. slug: download
-.. date: 2024-05-27T20:07:33+02:00
+.. date: 2024-06-19T18:01:15+02:00
 .. tags:
 .. category:
 .. link:
@@ -7,7 +7,7 @@
 .. type: text
 
 
-**Download von 7-Zip 24.06 (26.05.2024)**:
+**Download von 7-Zip 24.07 (19.06.2024)**:
 
 .. table::
     :widths: 11 10 15 64
@@ -15,33 +15,33 @@
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
     | Link                                                         | Version | System                 | Beschreibung                                                                    |
     +==============================================================+=========+========================+=================================================================================+
-    | `Download <https://7-zip.org/a/7z2406-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
+    | `Download <https://7-zip.org/a/7z2407-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2406.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2407.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2406-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2407-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2406-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
+    | `Download <https://7-zip.org/a/7z2407-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2406.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
+    | `Download <https://7-zip.org/a/7z2407.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2406-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
+    | `Download <https://7-zip.org/a/7z2407-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2406-linux-x64.tar.xz>`__   | .tar.xz | 64-bit Linux x86-64    | 7-Zip für Linux: Konsolenversion                                                |
+    | `Download <https://7-zip.org/a/7z2407-linux-x64.tar.xz>`__   | .tar.xz | 64-bit Linux x86-64    | 7-Zip für Linux: Konsolenversion                                                |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2406-linux-x86.tar.xz>`__   | .tar.xz | 32-bit Linux x86       |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2407-linux-x86.tar.xz>`__   | .tar.xz | 32-bit Linux x86       |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2406-linux-arm64.tar.xz>`__ | .tar.xz | 64-bit Linux arm64     |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2407-linux-arm64.tar.xz>`__ | .tar.xz | 64-bit Linux arm64     |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2406-linux-arm.tar.xz>`__   | .tar.xz | 32-bit Linux arm       |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2407-linux-arm.tar.xz>`__   | .tar.xz | 32-bit Linux arm       |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2406-mac.tar.xz>`__         | .tar.xz | macOS (arm64 / x86-64) | 7-Zip für macOS: Konsolenversion                                                |
+    | `Download <https://7-zip.org/a/7z2407-mac.tar.xz>`__         | .tar.xz | macOS (arm64 / x86-64) | 7-Zip für macOS: Konsolenversion                                                |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2406-src.7z>`__             | .7z     | Alle / Windows         | 7-Zip Quelltext                                                                 |
+    | `Download <https://7-zip.org/a/7z2407-src.7z>`__             | .7z     | Alle / Windows         | 7-Zip Quelltext                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2406-src.tar.xz>`__         | .tar.xz | Alle / Windows         | 7-Zip Quelltext                                                                 |
+    | `Download <https://7-zip.org/a/7z2407-src.tar.xz>`__         | .tar.xz | Alle / Windows         | 7-Zip Quelltext                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/lzma2406.7z>`__               | .7z     | Alle / Windows         | LZMA SDK (C, C++, C#, Java)                                                     |
+    | `Download <https://7-zip.org/a/lzma2407.7z>`__               | .7z     | Alle / Windows         | LZMA SDK (C, C++, C#, Java)                                                     |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
     | `Download <https://7-zip.org/a/7zr.exe>`__                   | .exe    | Windows                | 7zr.exe (x86) : 7-Zip-Konsolenanwendung                                         |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
