@@ -1,6 +1,6 @@
 .. title: 7-Zip
 .. slug: index
-.. date: 2024-06-19T17:58:45+02:00
+.. date: 2024-08-16T08:38:06+02:00
 .. tags:
 .. category:
 .. link:
@@ -11,7 +11,7 @@
 **7-Zip** ist ein Datenkompressionsprogramm mit einer hohen
 Kompressionsrate.
 
-**7-Zip 24.07 (19.06.2024) für Windows x64 (64-bit) herunterladen**:
+**7-Zip 24.08 (11.08.2024) für Windows x64 (64-bit) herunterladen**:
 
 .. list-table::
    :widths: 60 60 124 70
@@ -21,12 +21,12 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2407-x64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2408-x64.exe>`__
      - .exe
      - 64-bit x64
      - 1,6 MB
 
-**7-Zip 24.07 für andere Windows-Plattformen (32-bit x86 oder ARM64) herunterladen**:
+**7-Zip 24.08 für andere Windows-Plattformen (32-bit x86 oder ARM64) herunterladen**:
 
 .. list-table::
    :widths: 60 60 124 70
@@ -36,11 +36,11 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2407.exe>`__
+   * - `Download <https://7-zip.org/a/7z2408.exe>`__
      - .exe
      - 32-bit x86
      - 1,3 MB
-   * - `Download <https://7-zip.org/a/7z2407-arm64.exe>`__
+   * - `Download <https://7-zip.org/a/7z2408-arm64.exe>`__
      - .exe
      - 64-bit ARM64
      - 1,5 MB
