@@ -1,3 +1,8 @@
+- newstitle: '7-Zip 24.09'
+  newsdate:  '29.11.2024'
+  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/b95432c7ac/'
+  newstext:  '7-Zip 24.09'
+
 - newstitle: '7-Zip 24.08'
   newsdate:  '11.08.2024'
   newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/f162d68dcd/'
@@ -7,11 +12,6 @@
   newsdate:  '19.06.2024'
   newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/c84bcb5b5c/'
   newstext:  '7-Zip 24.07'
-
-- newstitle: '7-Zip 24.05'
-  newsdate:  '14.05.2024'
-  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/b92679e642/'
-  newstext:  '7-Zip 24.05'
 
 - newstitle: '7-Zip Changelog'
   newsdate:  ''
