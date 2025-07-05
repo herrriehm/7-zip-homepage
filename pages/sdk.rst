@@ -1,6 +1,6 @@
 .. title: LZMA SDK (Software Development Kit)
 .. slug: sdk
-.. date: 2024-11-30T15:03:50+01:00
+.. date: 2025-07-05T15:29:14Z
 .. tags: 
 .. category: 
 .. link: 
@@ -20,7 +20,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +----------------------------------------------------------+---------+------------+-------------+------------------------------------------+
     | Link                                                     | Größe   | Datum      | Version     | Beschreibung                             |
     +==========================================================+=========+============+=============+==========================================+
-    | `Download <https://7-zip.org/a/lzma2409.7z>`__           |  1,7 MB | 29.11.2024 | 24.09       | | LZMA SDK                               |
+    | `Download <https://7-zip.org/a/lzma2500.7z>`__           |  1,7 MB | 05.07.2025 | 25.00       | | LZMA SDK                               |
     +----------------------------------------------------------+---------+------------+-------------+ | C, C++, C#, Java                       |
     | `Download <https://7-zip.org/a/lzma2301.7z>`__           |   1 MB  | 20.06.2023 | 23.01       | | x86/x64/arm64-Binärdateien für Windows |
     +----------------------------------------------------------+---------+------------+-------------+------------------------------------------+
@@ -30,6 +30,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
+-  **25.00:** 7-Zip für Windows kann jetzt mehr als 64 CPU-Threads für die Kompression nutzen.
 -  **24.09:** Die Standardwerte für die Wörterbuchgröße bei den Komprimierungsmethoden LZMA/LZMA2 wurden erhöht.
 -  **24.05:** Neuer Filter für RISC-V-Programme.
 -  **23.01:** Neuer Filter für ARM64-Programme. BCJ2-Filter wurde für eine bessere Kompressionsrate verbessert. Einige Bugs wurden behoben.
@@ -83,6 +84,8 @@ Lizenz
 **LZMA SDK** steht unter der **Public Domain.**
 
 Jeder darf den originalen LZMA-SDK-Code kopieren, ändern, veröffentlichen, nutzen, kompilieren, verkaufen oder verteilen, sowohl als Quelltext als auch als kompilierte Binärdatei, für jeden Zweck, kommerziell oder nichtkommerziell, unter allen Umständen.
+
+Hinweis: Die Abkürzung LZMA stand ursprünglich für Lempel - Ziv - Markov chain - Arithmetic coding. Vorläufige Versionen von LZMA verwendeten Arithmetic Coding. In der endgültigen Version von LZMA wurde Arithmetic Coding jedoch durch Range Coding ersetzt.
 
 LZMA Links
 ----------
