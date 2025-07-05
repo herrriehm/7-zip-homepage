@@ -1,5 +1,5 @@
 .. slug: download
-.. date: 2024-11-30T15:07:20+01:00
+.. date: 2025-07-05T15:33:09Z
 .. tags:
 .. category:
 .. link:
@@ -7,7 +7,7 @@
 .. type: text
 
 
-**Download von 7-Zip 24.09 (29.11.2024)**:
+**Download von 7-Zip 25.00 (05.07.2025)**:
 
 .. table::
     :widths: 11 10 15 64
@@ -15,33 +15,33 @@
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
     | Link                                                         | Version | System                 | Beschreibung                                                                    |
     +==============================================================+=========+========================+=================================================================================+
-    | `Download <https://7-zip.org/a/7z2409-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
+    | `Download <https://7-zip.org/a/7z2500-x64.exe>`__            | .exe    | 64-bit Windows x64     | 7-Zip-Installationsprogramm für Windows                                         |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2409.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2500.exe>`__                | .exe    | 32-bit Windows x86     |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 |
-    | `Download <https://7-zip.org/a/7z2409-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2500-arm64.exe>`__          | .exe    | 64-bit Windows arm64   |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2409-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
+    | `Download <https://7-zip.org/a/7z2500-x64.msi>`__            | .msi    | 64-bit Windows x64     | (alternativer MSI-Installer) 7-Zip für 64-bit Windows x64                       |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2409.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
+    | `Download <https://7-zip.org/a/7z2500.msi>`__                | .msi    | 32-bit Windows x86     | (alternativer MSI-Installer) 7-Zip für 32-bit Windows                           |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2409-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
+    | `Download <https://7-zip.org/a/7z2500-extra.7z>`__           | .7z     | Windows x86 / x64      | 7-Zip Extra: Standalone-Konsolenversion, 7z-DLL, Plugin für FAR Manager         |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2409-linux-x64.tar.xz>`__   | .tar.xz | 64-bit Linux x86-64    | 7-Zip für Linux: Konsolenversion                                                |
+    | `Download <https://7-zip.org/a/7z2500-linux-x64.tar.xz>`__   | .tar.xz | 64-bit Linux x86-64    | 7-Zip für Linux: Konsolenversion                                                |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2409-linux-x86.tar.xz>`__   | .tar.xz | 32-bit Linux x86       |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2500-linux-x86.tar.xz>`__   | .tar.xz | 32-bit Linux x86       |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2409-linux-arm64.tar.xz>`__ | .tar.xz | 64-bit Linux arm64     |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2500-linux-arm64.tar.xz>`__ | .tar.xz | 64-bit Linux arm64     |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+                                                                                 +
-    | `Download <https://7-zip.org/a/7z2409-linux-arm.tar.xz>`__   | .tar.xz | 32-bit Linux arm       |                                                                                 |
+    | `Download <https://7-zip.org/a/7z2500-linux-arm.tar.xz>`__   | .tar.xz | 32-bit Linux arm       |                                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2409-mac.tar.xz>`__         | .tar.xz | macOS (arm64 / x86-64) | 7-Zip für macOS: Konsolenversion                                                |
+    | `Download <https://7-zip.org/a/7z2500-mac.tar.xz>`__         | .tar.xz | macOS (arm64 / x86-64) | 7-Zip für macOS: Konsolenversion                                                |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2409-src.7z>`__             | .7z     | Alle / Windows         | 7-Zip Quelltext                                                                 |
+    | `Download <https://7-zip.org/a/7z2500-src.7z>`__             | .7z     | Alle / Windows         | 7-Zip Quelltext                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/7z2409-src.tar.xz>`__         | .tar.xz | Alle / Windows         | 7-Zip Quelltext                                                                 |
+    | `Download <https://7-zip.org/a/7z2500-src.tar.xz>`__         | .tar.xz | Alle / Windows         | 7-Zip Quelltext                                                                 |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
-    | `Download <https://7-zip.org/a/lzma2409.7z>`__               | .7z     | Alle / Windows         | LZMA SDK (C, C++, C#, Java)                                                     |
+    | `Download <https://7-zip.org/a/lzma2500.7z>`__               | .7z     | Alle / Windows         | LZMA SDK (C, C++, C#, Java)                                                     |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
     | `Download <https://7-zip.org/a/7zr.exe>`__                   | .exe    | Windows                | 7zr.exe (x86) : 7-Zip-Konsolenanwendung                                         |
     +--------------------------------------------------------------+---------+------------------------+---------------------------------------------------------------------------------+
