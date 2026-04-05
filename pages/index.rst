@@ -1,6 +1,6 @@
 .. title: 7-Zip
 .. slug: index
-.. date: 2026-02-12 18:34:00
+.. date: 2026-04-05 13:30:03
 .. tags:
 .. category:
 .. link:
@@ -21,7 +21,7 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2600-x64.exe>`__
+   * - `Download <https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe>`__
      - .exe
      - 64-bit x64
      - 1,6 MB
@@ -36,11 +36,11 @@ Kompressionsrate.
      - Version
      - Windows
      - Größe
-   * - `Download <https://7-zip.org/a/7z2600.exe>`__
+   * - `Download <https://github.com/ip7z/7zip/releases/download/26.00/7z2600.exe>`__
      - .exe
      - 32-bit x86
      - 1,3 MB
-   * - `Download <https://7-zip.org/a/7z2600-arm64.exe>`__
+   * - `Download <https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm64.exe>`__
      - .exe
      - 64-bit ARM64
      - 1,5 MB
