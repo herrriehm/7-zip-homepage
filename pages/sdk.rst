@@ -1,6 +1,6 @@
 .. title: LZMA SDK (Software Development Kit)
 .. slug: sdk
-.. date: 2026-02-12 18:38:46
+.. date: 2026-04-27 20:20:06
 .. tags: 
 .. category: 
 .. link: 
@@ -20,7 +20,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +----------------------------------------------------------+---------+------------+-------------+------------------------------------------+
     | Link                                                     | Größe   | Datum      | Version     | Beschreibung                             |
     +==========================================================+=========+============+=============+==========================================+
-    | `Download <https://7-zip.org/a/lzma2600.7z>`__           |  1,7 MB | 12.02.2026 | 26.00       | | LZMA SDK                               |
+    | `Download <https://7-zip.org/a/lzma2601.7z>`__           |  1,7 MB | 27.04.2026 | 26.01       | | LZMA SDK                               |
     +----------------------------------------------------------+---------+------------+-------------+ | C, C++, C#, Java                       |
     | `Download <https://7-zip.org/a/lzma2301.7z>`__           |   1 MB  | 20.06.2023 | 23.01       | | x86/x64/arm64-Binärdateien für Windows |
     +----------------------------------------------------------+---------+------------+-------------+------------------------------------------+
@@ -30,6 +30,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
+-  **26.01:** Einige kleine Korrekturen.
 -  **26.00:** Einige kleine Korrekturen.
 -  **25.01:** Der Code zur Verarbeitung symbolischer Links wurde geändert, um beim Entpacken von Archivdateien eine höhere Sicherheit zu gewährleisten..
 -  **25.00:** 7-Zip für Windows kann jetzt mehr als 64 CPU-Threads für die Kompression nutzen.
