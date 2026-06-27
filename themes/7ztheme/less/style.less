@@ -189,3 +189,84 @@ table {
 		}
 	}
 }
+
+// Bilder skalieren mit dem Container (Screenshots, Logos im Inhalt).
+// #logo behaelt seine feste Groesse dank spezifischerer Regel weiter oben.
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+// Aufklapp-Steuerung fuer Menue/Sprachen (CSS-only Disclosure ueber eine
+// versteckte Checkbox). Auf dem Desktop voellig unsichtbar -> Listen werden
+// wie bisher dauerhaft angezeigt. Erst im Mobil-Breakpoint weiter unten
+// werden Label und Aufklapp-Logik aktiv.
+.navtoggle,
+.navtoggle-label {
+	display: none;
+}
+
+// Desktop-first: Das obige Layout bleibt der Default. Auf schmalen Screens
+// (Smartphones/kleine Tablets) wird das zweispaltige Flex-Layout zu einer
+// Spalte kollabiert, feste Mindestbreiten werden aufgehoben und breite
+// Tabellen horizontal scrollbar gemacht, statt die Seite zu sprengen.
+@media (max-width: 768px) {
+	body {
+		flex-direction: column; // Header/Navigation stackt ueber den Inhalt
+		margin: 8px; // 18px frisst auf schmalen Screens zu viel Breite
+		font-size: 90%; // etwas groesser fuer Lesbarkeit am Handy
+	}
+	main {
+		flex-direction: column; // News-Box rutscht unter den Artikel
+		padding: 4px;
+	}
+	aside.news,
+	aside.switchlang {
+		min-width: 0; // feste Mindestbreiten (220px/120px) aufheben
+		flex-basis: auto;
+		width: 100%;
+	}
+	nav li {
+		padding: 6px 2px; // groessere Touch-Targets
+	}
+	// Menue/Sprachen mobil eingeklappt: Inhalt steht direkt unter dem Logo.
+	// Die Checkbox bleibt fokussierbar (Tastatur), ist aber visuell versteckt.
+	.navtoggle {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		opacity: 0;
+	}
+	.navtoggle-label {
+		display: block;
+		cursor: pointer;
+		font-weight: 700;
+		color: blue;
+		padding: 6px 2px;
+		user-select: none;
+		&::before {
+			content: "\25B8 "; // Pfeil rechts = eingeklappt
+		}
+	}
+	.navtoggle:checked ~ .navtoggle-label::before {
+		content: "\25BE "; // Pfeil unten = aufgeklappt
+	}
+	.navtoggle:focus-visible ~ .navtoggle-label {
+		outline: 2px solid #5670d4; // Sichtbarkeit fuer Tastaturbedienung
+	}
+	// Siblings-Selektor (ohne ID) fuer beide Zustaende, damit die :checked-
+	// Regel die Einklapp-Regel per Spezifitaet sicher ueberschreibt.
+	.navtoggle ~ ul {
+		display: none; // standardmaessig eingeklappt
+	}
+	.navtoggle:checked ~ ul {
+		display: block; // beim Antippen aufklappen
+	}
+	// Breite Tabellen einzeln horizontal scrollbar statt Seitenueberlauf
+	table {
+		display: block;
+		max-width: 100%;
+		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+	}
+}

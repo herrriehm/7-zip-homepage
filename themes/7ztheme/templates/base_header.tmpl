@@ -29,6 +29,8 @@
 
 {% macro html_navigation_links() %}
     <nav id="menu">
+    <input type="checkbox" id="menu-toggle" class="navtoggle">
+    <label for="menu-toggle" class="navtoggle-label">Menü</label>
     <ul>
     {% for url, text in navigation_links[lang] %}
         {% if isinstance(url, tuple) %}
@@ -58,6 +60,8 @@
 
 {% macro html_navigation_alt_links() %}
     <aside class="switchlang">
+    <input type="checkbox" id="lang-toggle" class="navtoggle">
+    <label for="lang-toggle" class="navtoggle-label">Sprachen</label>
     <ul>
     {% for url, text in navigation_alt_links[lang] %}
         {% if isinstance(url, tuple) %}
