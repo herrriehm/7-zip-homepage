@@ -1,0 +1,19 @@
+- newstitle: '7-Zip 26.02'
+  newsdate:  '25.06.2026'
+  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/b8d64839d0/'
+  newstext:  '7-Zip 26.02'
+
+- newstitle: '7-Zip 26.01'
+  newsdate:  '27.04.2026'
+  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/555e132ba4/'
+  newstext:  '7-Zip 26.01'
+
+- newstitle: '7-Zip 26.00'
+  newsdate:  '12.02.2026'
+  newsurl:   'https://sourceforge.net/p/sevenzip/discussion/45797/thread/a1f7e08417/'
+  newstext:  '7-Zip 26.00'
+
+- newstitle: '7-Zip Changelog'
+  newsdate:  ''
+  newsurl:   'https://7-zip.org/history.txt'
+  newstext:  'Liste der Änderungen'
