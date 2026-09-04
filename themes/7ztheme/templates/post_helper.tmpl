@@ -1,35 +1,4 @@
 ## -*- coding: utf-8 -*-
-<%namespace name="math" file="math_helper.tmpl"/>
-
-<%def name="html_tags(post)">\
-    % if post.tags:
-        <ul itemprop="keywords" class="tags">
-        % for tag in post.tags:
-          % if tag not in hidden_tags:
-            <li><a class="tag p-category" href="${_link('tag', tag)}" rel="tag">${tag|h}</a></li>
-          % endif
-        % endfor
-        </ul>
-    % endif
-</%def>
-
-<%def name="html_pager(post)">\
-    % if post.prev_post or post.next_post:
-        <ul class="pager hidden-print">
-        % if post.prev_post:
-            <li class="previous">
-                <a href="${post.prev_post.permalink()}" rel="prev" title="${post.prev_post.title()|h}">${messages("Previous post")}</a>
-            </li>
-        % endif
-        % if post.next_post:
-            <li class="next">
-                <a href="${post.next_post.permalink()}" rel="next" title="${post.next_post.title()|h}">${messages("Next post")}</a>
-            </li>
-        % endif
-        </ul>
-    % endif
-</%def>
-
 <%def name="open_graph_metadata(post)">\
 % if use_open_graph:
     <meta property="og:site_name" content="${blog_title|h}">
@@ -92,15 +61,10 @@
 <span class="newstext">${newsitem['newstext']}</span>\
       % endif
       % endfor
-      
+
       <div class="newsheader">
         <span class="newstitle b8e">Warnung vor Download bei Drittanbietern</span>
       </div>
       <span class="newstext b8e">Der Download von 7-Zip ist kostenlos von dieser Seite möglich. In der letzten Zeit erreichen uns vermehrt Beschwerden über Firmen, die das Programm gegen eine Gebühr zum Download anbieten.<br><a href="support.html">Weitere Informationen</a></span>
     </aside>
-</%def>
-
-## This function is deprecated; use math_helper directly.
-<%def name="mathjax_script(post)">\
-    ${math.math_scripts_ifpost(post)}
 </%def>
