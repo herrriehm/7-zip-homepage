@@ -1,0 +1,32 @@
+# Build environment for 7-zip.de — see README.md for the full workflow.
+#
+# Python 3.13  (Uberspace: /usr/bin/python3.13, NOT the default python3)
+# Frozen 2026-09-04.
+#
+#   python3.13 -m venv ~/nikola-venv
+#   source ~/nikola-venv/bin/activate
+#   pip install -r requirements.txt
+
+babel==2.18.0
+blinker==1.9.0
+certifi==2026.7.22
+charset-normalizer==3.5.1
+docutils==0.23
+doit==0.37.0
+idna==3.19
+Jinja2==3.1.6
+lxml==6.1.3
+Mako==1.4.1
+Markdown==3.10.3
+MarkupSafe==3.0.3
+natsort==8.4.0
+Nikola==8.3.3
+piexif==1.1.3
+pillow==12.3.0
+Pygments==2.21.0
+PyRSS2Gen==1.1
+python-dateutil==2.9.0.post0
+requests==2.34.2
+six==1.17.0
+Unidecode==1.4.0
+urllib3==2.7.0

@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+"""Reject commits that stage malformed JSON under data/.
+
+Nikola loads data/*.json into the template context at startup; a syntax error
+there breaks the build on the server, long after the commit. This catches it
+here instead. The *staged* blob is validated, not the working tree, so a
+partially staged file is checked as it will actually be committed.
+"""
+
+import json
+import subprocess
+import sys
+
+
+def staged_json_files() -> list[str]:
+    """Return the data/*.json paths added, copied or modified in the index."""
+    result = subprocess.run(
+        ["git", "diff", "--cached", "--name-only", "--diff-filter=ACM", "-z",
+         "--", "data/*.json"],
+        check=True, capture_output=True, text=True,
+    )
+    return [path for path in result.stdout.split("\0") if path]
+
+
+def main() -> int:
+    """Validate every staged JSON data file; return a non-zero exit on failure."""
+    failures = []
+    for path in staged_json_files():
+        blob = subprocess.run(
+            ["git", "show", f":{path}"], check=True, capture_output=True,
+        ).stdout
+        try:
+            # utf-8-sig mirrors how Nikola's utils.load_data() opens the file.
+            json.loads(blob.decode("utf-8-sig"))
+        except (UnicodeDecodeError, json.JSONDecodeError) as exc:
+            failures.append((path, exc))
+
+    for path, exc in failures:
+        print(f"pre-commit: {path}: {exc}", file=sys.stderr)
+    if failures:
+        print("\nCommit aborted. Fix the file, or bypass with "
+              "'git commit --no-verify'.", file=sys.stderr)
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
