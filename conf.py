@@ -269,10 +269,11 @@ TIMEZONE = "Europe/Berlin"
 # LOCALE_DEFAULT = None
 
 # One or more folders containing files to be copied as-is into the output.
-# The format is a dictionary of {source: relative destination}.
-# Default is:
-# FILES_FOLDERS = {'files': ''}
-# Which means copy 'files' into 'output'
+# The format is a dictionary of {source: relative destination}, so this copies
+# 'files' into 'output'. It matches Nikola's default, but is set explicitly because
+# 'files/' carries assets/css/style.css alongside the images: remove or repoint this
+# mapping and the site loses its only stylesheet.
+FILES_FOLDERS = {'files': ''}
 
 # One or more folders containing code listings to be processed and published on
 # the site. The format is a dictionary of {source: relative destination}.
