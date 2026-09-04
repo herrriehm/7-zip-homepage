@@ -739,13 +739,6 @@ OUTPUT_FOLDER = 'output'
 # return partial content of another representation for these resources. Do not
 # use this feature if you do not understand what this means.
 
-# Compiler to process LESS files.
-LESS_COMPILER = 'lessc'
-
-# A list of options to pass to the LESS compiler.
-# Final command is: LESS_COMPILER LESS_OPTIONS file.less
-LESS_OPTIONS = []
-
 # Compiler to process Sass files.
 # SASS_COMPILER = 'sass'
 
@@ -1307,7 +1300,7 @@ USE_OPEN_GRAPH = False
 USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
-DISABLED_PLUGINS = ["chart", "classify_archive", "classify_authors", "classify_categories", "classify_indexes", "classify_page_index", "classify_tags", "classify_taxonomies", "emoji", "gist", "github_deploy", "import_wordpress", "init", "ipynb", "listing_shortcode", "markdown", "jinja", "mdx_gist", "mdx_podcast", "new_page", "new_post", "post_list", "render_galleries", "render_listings", "render_sources", "render_tag_cloud", "render_taxonomies", "rest_chart", "rest_gist", "rest_listing", "rest_media", "rest_post_list", "rest_soundcloud", "rest_thumbnail", "rest_vimeo", "rest_youtube"]
+DISABLED_PLUGINS = ["chart", "classify_archive", "classify_authors", "classify_categories", "classify_indexes", "classify_page_index", "classify_tags", "classify_taxonomies", "copy_assets", "emoji", "gist", "github_deploy", "import_wordpress", "init", "ipynb", "listing_shortcode", "markdown", "jinja", "mdx_gist", "mdx_podcast", "new_page", "new_post", "post_list", "render_galleries", "render_listings", "render_sources", "render_tag_cloud", "render_taxonomies", "rest_chart", "rest_gist", "rest_listing", "rest_media", "rest_post_list", "rest_soundcloud", "rest_thumbnail", "rest_vimeo", "rest_youtube"]
 
 # Special settings to disable only parts of the indexes plugin (to allow RSS
 # but no blog indexes, or to allow blog indexes and Atom but no site-wide RSS).

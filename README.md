@@ -85,8 +85,12 @@ file is caught here rather than breaking the build on the server.
   package of its own. Note that `conf.py` must therefore *not* list `"mako"` in
   `DISABLED_PLUGINS` — that setting applies to template engines too, and Nikola would
   abort with `Error loading mako template system plugin`.
-* **CSS** is compiled from `themes/7ztheme/less/style.less` by the local `plugins/less`
-  plugin, which calls `lessc` (`~/bin/lessc` on the server).
+* **CSS** is a static file at `files/assets/css/style.css`, copied verbatim into the
+  output by `FILES_FOLDERS`. There is no CSS build step and no Node/lessc dependency.
+* **`copy_assets` is disabled** in `DISABLED_PLUGINS`. The pages link exactly one
+  stylesheet and no scripts, so the parent theme's assets (luxon, baguetteBox, the
+  gallery and reStructuredText CSS, …) were 20 files and ~160 KB of never-requested
+  payload. Re-enable it if the theme ever starts using inherited assets.
 * **`ROBOTS_EXCLUSIONS`** in `conf.py` keeps `support.html` out of `robots.txt` and
   `sitemap.xml`. Do not hand-edit files in the live document root — `nikola deploy`
   runs with `--delete` and will silently discard such changes.
