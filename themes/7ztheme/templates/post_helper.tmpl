@@ -1,16 +1,6 @@
 ## -*- coding: utf-8 -*-
 <%namespace name="math" file="math_helper.tmpl"/>
 
-<%def name="meta_translations(post)">\
-    % if len(translations) > 1:
-        % for langname in sorted(translations):
-            % if langname != lang and ((not post.skip_untranslated) or post.is_translation_available(langname)):
-                <link rel="alternate" hreflang="${langname}" href="${post.permalink(langname)}">
-            % endif
-        % endfor
-    % endif
-</%def>
-
 <%def name="html_tags(post)">\
     % if post.tags:
         <ul itemprop="keywords" class="tags">

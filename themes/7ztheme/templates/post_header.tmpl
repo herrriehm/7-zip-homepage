@@ -8,19 +8,6 @@
 % endif
 </%def>
 
-<%def name="html_translations(post)">\
-    % if len(post.translated_to) > 1:
-        <div class="metadata posttranslations translations">
-            <h3 class="posttranslations-intro">${messages("Also available in:")}</h3>
-            % for langname in sorted(translations):
-                % if langname != lang and post.is_translation_available(langname):
-                <p><a href="${post.permalink(langname)}" rel="alternate" hreflang="${langname}">${messages("LANGUAGE", langname)}</a></p>
-                % endif
-            % endfor
-        </div>
-    % endif
-</%def>
-
 <%def name="html_sourcelink()">\
     % if show_sourcelink:
         <p class="sourceline"><a href="${post.source_link()}" class="sourcelink">${messages("Source")}</a></p>
@@ -47,6 +34,5 @@
                     <p class="linkline"><a href="${post.meta('link')}">${messages("Original site")}</a></p>
             % endif
         </div>
-        ${html_translations(post)}
     </header>
 </%def>
