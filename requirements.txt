@@ -1,7 +1,7 @@
 # Build environment for 7-zip.de — see README.md for the full workflow.
 #
 # Python 3.13  (Uberspace: /usr/bin/python3.13, NOT the default python3)
-# Frozen 2026-09-04.
+# Frozen 2026-09-04 (theme migrated from Jinja to Mako; Jinja2 no longer needed).
 #
 #   python3.13 -m venv ~/nikola-venv
 #   source ~/nikola-venv/bin/activate
@@ -14,7 +14,6 @@ charset-normalizer==3.5.1
 docutils==0.23
 doit==0.37.0
 idna==3.19
-Jinja2==3.1.6
 lxml==6.1.3
 Mako==1.4.1
 Markdown==3.10.3

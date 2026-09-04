@@ -1,25 +1,25 @@
-{#  -*- coding: utf-8 -*- #}
-{% import 'base_helper.tmpl' as base with context %}
-{% import 'base_header.tmpl' as header with context %}
-{% import 'base_footer.tmpl' as footer with context %}
-{{ set_locale(lang) }}
-{#  <html> tag is included by base.html_headstart #}
-{{ base.html_headstart() }}
-{% block extra_head %}
-{#  Leave this block alone. #}
-{% endblock %}
-{{ template_hooks['extra_head']() }}
+## -*- coding: utf-8 -*-
+<%namespace name="base" file="base_helper.tmpl" import="*"/>
+<%namespace name="header" file="base_header.tmpl" import="*"/>
+<%namespace name="footer" file="base_footer.tmpl" import="*"/>
+${set_locale(lang)}
+### <html> tag is included by base.html_headstart
+${base.html_headstart()}
+<%block name="extra_head">\
+### Leave this block alone.
+</%block>
+${template_hooks['extra_head']()}
 </head>
 <body>
-    {{ header.html_header() }}
+    ${header.html_header()}
     <div id="textbody">
         <main id="content">
-           {% block content %}{% endblock %}
+           <%block name="content"></%block>
         </main>
-        {{ footer.html_footer() }}
-        {% block extra_js %}{% endblock %}
-        {{ body_end }}
-        {{ template_hooks['body_end']() }}
+        ${footer.html_footer()}
+        <%block name="extra_js"></%block>
+        ${body_end}
+        ${template_hooks['body_end']()}
     </div>
 </body>
 </html>

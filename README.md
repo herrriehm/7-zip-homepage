@@ -80,9 +80,11 @@ file is caught here rather than breaking the build on the server.
 * **News** live in `data/news.json` and are rendered by the `news_sidebar` macro in
   `themes/7ztheme/templates/post_helper.tmpl`. JSON is read by Python's standard
   library, so the file needs no extra dependency — unlike the YAML it replaced.
-* **Theme** `themes/7ztheme` uses the Jinja template engine and inherits from Nikola's
-  built-in `base-jinja`. `Jinja2` is therefore a real dependency of *this site*, not of
-  Nikola itself.
+* **Theme** `themes/7ztheme` uses the Mako template engine and inherits from Nikola's
+  built-in `base`. Mako is a hard dependency of Nikola itself, so the theme adds no
+  package of its own. Note that `conf.py` must therefore *not* list `"mako"` in
+  `DISABLED_PLUGINS` — that setting applies to template engines too, and Nikola would
+  abort with `Error loading mako template system plugin`.
 * **CSS** is compiled from `themes/7ztheme/less/style.less` by the local `plugins/less`
   plugin, which calls `lessc` (`~/bin/lessc` on the server).
 * **`ROBOTS_EXCLUSIONS`** in `conf.py` keeps `support.html` out of `robots.txt` and
