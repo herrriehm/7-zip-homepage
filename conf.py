@@ -160,7 +160,6 @@ NAVIGATION_ALT_LINKS = {
         ("https://7-zip.opensource.jp/", "Japanisch"),
         ("https://7zip.rnbastos.com/", "Portugiesisch"),
         ("https://7zip-es.updatestar.com/", "Spanisch"),
-        ("https://7zip-thai.inetbridge.net/", "Thai"),
         ("https://7zip-vi.updatestar.com/", "Vietnamesisch"),
     ),
 }
