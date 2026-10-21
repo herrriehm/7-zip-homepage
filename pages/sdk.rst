@@ -1,6 +1,6 @@
 .. title: LZMA SDK (Software Development Kit)
 .. slug: sdk
-.. date: 2026-10-06 18:35:15
+.. date: 2026-10-21 18:23:01
 .. tags: 
 .. category: 
 .. link: 
@@ -20,7 +20,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
     +-------------------------------------------------------------------------------------------+---------+------------+-------------+------------------------------------------+
     | Link                                                                                      | Größe   | Datum      | Version     | Beschreibung                             |
     +===========================================================================================+=========+============+=============+==========================================+
-    | `Download <https://github.com/ip7z/7zip/releases/download/26.04/lzma2604.7z>`__           |  1,7 MB | 05.10.2026 | 26.04       | | LZMA SDK                               |
+    | `Download <https://github.com/ip7z/7zip/releases/download/26.05/lzma2605.7z>`__           |  1,7 MB | 21.10.2026 | 26.05       | | LZMA SDK                               |
     +-------------------------------------------------------------------------------------------+---------+------------+-------------+ | C, C++, C#, Java                       |
     | `Download <https://7-zip.org/a/lzma2301.7z>`__                                            |   1 MB  | 20.06.2023 | 23.01       | | x86/x64/arm64-Binärdateien für Windows |
     +-------------------------------------------------------------------------------------------+---------+------------+-------------+------------------------------------------+
@@ -30,6 +30,7 @@ Bibliotheken und Werkzeuge, um Anwendungen zu entwickeln, die die
 
 **Was ist neu:**
 
+-  **26.05:** kleinere Änderungen.
 -  **26.04:** Einige Fehler und Schwachstellen behoben.
 -  **26.03:** Einige Fehler und Schwachstellen behoben.
 -  **26.02:** Einige Fehler und Schwachstellen behoben.
